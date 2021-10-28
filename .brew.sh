@@ -1,4 +1,4 @@
-cd goinfre && rm -rf .brew
+cd $HOME/goinfre && rm -rf .brew
 mkdir .brew
 cd $HOME
 ln -s goinfre/.brew .brew
